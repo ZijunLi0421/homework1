@@ -1,0 +1,2 @@
+Q: What is a remote repository?
+A: A remote repository is repository hosted on another computer or server. It helps people to collaborate and work on the same project.
